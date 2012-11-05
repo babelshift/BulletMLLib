@@ -67,9 +67,6 @@
     <XnaCompressContent>True</XnaCompressContent>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BulletMLLib.Windows">
-      <HintPath>..\BulletMLLib\bin\Debug\BulletMLLib.Windows.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553">
       <Private>False</Private>
     </Reference>
@@ -164,6 +161,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BulletMLLib\BulletMLLib.Windows.csproj">
+      <Project>{BD08C5E1-5925-42A8-B221-9741AFCF2C77}</Project>
+      <Name>BulletMLLib.Windows</Name>
+    </ProjectReference>
     <ProjectReference Include="Content\BulletMLSampleContent.contentproj">
       <Project>{81D74F8C-171C-40E2-8EFA-ECA48478E41B}</Project>
       <Name>BulletMLSampleContent %28Content%29</Name>
