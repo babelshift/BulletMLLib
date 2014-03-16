@@ -103,8 +103,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BulletMLBullet.cs" />
+    <Compile Include="BulletMLManager.cs" />
     <Compile Include="BulletMLParser.cs" />
     <Compile Include="BulletMLTree.cs" />
+    <Compile Include="BulletValue.cs" />
+    <Compile Include="IBulletMLManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
