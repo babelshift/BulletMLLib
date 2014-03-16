@@ -1,4 +1,0 @@
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\bin\Release\BulletMLLib.Windows.dll
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\bin\Release\BulletMLLib.Windows.pdb
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\obj\Release\BulletMLLib.Windows.dll
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\obj\Release\BulletMLLib.Windows.pdb

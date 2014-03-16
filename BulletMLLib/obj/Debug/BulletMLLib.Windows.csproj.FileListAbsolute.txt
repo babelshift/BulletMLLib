@@ -1,5 +1,0 @@
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\bin\Debug\BulletMLLib.Windows.dll
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\bin\Debug\BulletMLLib.Windows.pdb
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\obj\Debug\BulletMLLib.Windows.csprojResolveAssemblyReference.cache
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\obj\Debug\BulletMLLib.Windows.dll
-E:\Documents\Programming\GitHub\BulletMLLib\BulletMLLib\obj\Debug\BulletMLLib.Windows.pdb
