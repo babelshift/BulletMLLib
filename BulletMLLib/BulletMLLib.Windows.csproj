@@ -40,11 +40,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BulletMLAccel.cs" />
+    <Compile Include="BulletMLAction.cs" />
     <Compile Include="BulletMLBullet.cs" />
+    <Compile Include="BulletMLChangeDirection.cs" />
+    <Compile Include="BulletMLChangeSpeed.cs" />
+    <Compile Include="BulletMLFire.cs" />
     <Compile Include="BulletMLManager.cs" />
     <Compile Include="BulletMLParser.cs" />
+    <Compile Include="BulletMLSetDirection.cs" />
+    <Compile Include="BulletMLSetSpeed.cs" />
+    <Compile Include="BulletMLTask.cs" />
     <Compile Include="BulletMLTree.cs" />
+    <Compile Include="BulletMLVanish.cs" />
+    <Compile Include="BulletMLWait.cs" />
     <Compile Include="BulletValue.cs" />
+    <Compile Include="FireData.cs" />
+    <Compile Include="IBulletMLBulletInterface.cs" />
     <Compile Include="IBulletMLManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
