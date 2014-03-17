@@ -31,7 +31,7 @@ namespace BulletMLLib
 
 		static public float GetPlayerPositionY()
 		{
-			return ib.GetPlayerPositionX();
+			return ib.GetPlayerPositionY();
 		}
 	}
 }
