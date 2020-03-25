@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Description>BulletMLLib</Description>
+    <Description>BulletMLLib Classic is a one-to-one implementation from Keiichi Kashihara at Bandi Games. All credit goes to him.</Description>
     <VersionPrefix>1.0.0</VersionPrefix>
     <Authors>Keiichi Kashihara</Authors>
     <AssemblyName>BulletMLLib</AssemblyName>
-    <PackageId>BulletMLLib</PackageId>
+    <PackageId>BulletMLLib.Classic</PackageId>
     <PackageProjectUrl>https://github.com/babelshift/BulletMLLib</PackageProjectUrl>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
