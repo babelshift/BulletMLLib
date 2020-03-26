@@ -17,7 +17,7 @@ pool:
 variables:
 - group: NuGet
 - name: solution
-  value: '**/*.sln'
+  value: 'BulletMLLib.sln'
 - name: buildPlatform
   value: 'Any CPU'
 - name: buildConfiguration
