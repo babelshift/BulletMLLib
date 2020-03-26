@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/justinskiles/justinskiles/_apis/build/status/babelshift.BulletMLLib?branchName=master)](https://dev.azure.com/justinskiles/justinskiles/_build/latest?definitionId=3&branchName=master)
+[![NuGet](https://img.shields.io/nuget/v/BulletMLLib.Classic.svg)](https://www.nuget.org/packages/BulletMLLib.Classic)
 
 ## BulletMLLib
 
