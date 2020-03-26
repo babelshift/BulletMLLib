@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/justinskiles/justinskiles/_apis/build/status/babelshift.BulletMLLib?branchName=master)](https://dev.azure.com/justinskiles/justinskiles/_build/latest?definitionId=3&branchName=master)
+
 ## BulletMLLib
 
 A C# library used to read BulletML XML files. This is the implementation by Keiichi Kashihara of Bandle Games. All credit goes to him.
